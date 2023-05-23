@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Maung Ye"
+  given-names: "Swe Soe"
+  orcid: "https://0000-0002-3127-9142"
+title: "Zebraflow"
+version: 0.1.0
+doi: 10.5281/zenodo.7960906
+date-released: 2023-05-23
+url: "https://doi.org/10.5281/zenodo.796090"
